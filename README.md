@@ -12,4 +12,10 @@
 
 ## *in local rep v2:*
 1. delete .git dir
-2. 
+2. git clone origin http://your/github/rep/link in another dir
+3. copy .git in project
+4. git status
+5. git add .
+6. git commit -m"init: first commit"
+7. git push
+8. login-password
