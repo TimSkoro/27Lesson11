@@ -19,3 +19,21 @@
 6. git commit -m"init: first commit"
 7. git push
 8. login-password
+
+# **Create new-branch**
+## **V1**
+1. git branch new-branch
+2. git checkout new-branch
+## **V2**
+1. git checkout -b new-branch
+
+# **Generate dependence**
+
+```
+pip freeze > requirements.txt
+```
+# **Setup requirements**
+
+```
+pip install -r requirements.txt 
+```
